@@ -9,3 +9,6 @@
 ## Deployment
 
 * Link to the website deployed on Netlify : [Link]()
+
+https://heuristic-pike-791842.netlify.app/
+
